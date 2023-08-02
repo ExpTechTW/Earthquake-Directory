@@ -1,9 +1,9 @@
-# 模板
+# 歷史地震重播檔案目錄
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- `2023/07/10 06:11:33` `花蓮縣秀林鄉` `M5.2` [下載](https://github.com/ExpTechTW/Earthquake-Directory/raw/Release/2023-07-10_06-11-33.zip)
 
 ## 索引
 - [貢獻者](#貢獻者)
